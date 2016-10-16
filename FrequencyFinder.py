@@ -29,6 +29,8 @@ def examineFile():
     thousandCount = 1
     totalCount = 0
     averageFrequency = float(0)
+    
+    print("")
 
     while nextLine != "":
         nextLine = text.readline()
