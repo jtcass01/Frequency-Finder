@@ -1,3 +1,8 @@
+#River City Rocketry
+#Created By: Jacob Taylor Cassady
+#Date Created: 10/16/2016
+#Last Updated: 10/16/2016
+
 import sys
 
 def getInt(text):
